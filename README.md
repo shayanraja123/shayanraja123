@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)]
+![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 <h1 align="center">Hi 👋, I'm Shayan Raja</h1>
 <h3 align="center">A data science graduate student leveraging advanced analytics and machine learning to drive impactful, real-world solutions in business, finance, operations, and public health</h3>
