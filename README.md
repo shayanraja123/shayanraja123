@@ -13,7 +13,7 @@
 
 - 📫 How to reach me? **shayan.raja123@gmail.com**
 
-- ⚡ Fun fact: **I once helped a team drive $384,000 in revenue in a month using data analytics—proof that numbers can be both powerful and fun!**
+- ⚡ Fun fact: **I once helped a team drive $384,000 in revenue in a month using data analytics. This is proof that numbers can be both powerful and fun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
